@@ -1,1 +1,23 @@
 /* Your CSS styles go here */
+.bodii {
+    font-family: 'Roboto', sans-serif;
+    background :	#F0F8FF;
+    margin-right: 80px;
+}
+.headrcolor{
+    background:	#E6E6FA;
+    margin-right: 80px;
+}
+.headr{
+    font-family: 'Italianno', cursive;
+    text-align : center;
+}
+.content{
+    background : #D3D3D3;
+    margin-right: 80px;
+    
+    
+}
+.content p {
+    background :#A9A9A9;
+}
